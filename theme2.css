@@ -1,0 +1,69 @@
+h1 {
+	font-family: Serif;
+	color: CadetBlue;
+	text-align: center;
+	font-size: 30pt;
+	
+}
+
+body {
+	background-color: #F0F8FF;
+	background-image: url(Photo/swoosh.png);
+
+}
+
+h2 {
+
+	font-family: Serif;
+	color: CadetBlue;
+	text-align: center;
+}
+
+h3 {
+	font-family: Verdana;
+	color: CadetBlue;
+	text-align: center;
+
+}
+
+img {
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border: 3px solid;
+	border-color: PowderBlue;
+	border-radius: 30px;
+
+}
+
+
+li {
+	font-family: Verdana;
+	color: CadetBlue;
+	font-size: 15pt;
+	text-align: center;
+	
+}
+
+p {
+	font-family: Verdana;
+    color: CadetBlue;
+    font-size: 15pt;
+    text-align: center;
+}	
+
+
+div {
+	width: 700px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+	border: 3px solid;
+	border-color: PowderBlue;
+	background-color: #F0FFFF;
+	border-radius: 30px;
+	
+}
+
